@@ -1,0 +1,31 @@
+body{
+ background-image:url("pic.jpg");
+ 
+ border-top-style: dashed;
+ border-top-width:10px;
+ border-top-color: #ffffff;
+ border-left-style: dashed;
+ border-left-width:10px;
+ border-left-color: #ffffff;
+ border-right-style: dashed;
+ border-right-width:10px;
+ border-right-color: #ffffff;
+ border-bottom-style: dashed;
+ border-bottom-width:10px;
+ border-bottom-color: #ffffff;
+}
+h2{
+ font-size:15px;
+ padding-left:20px;
+ color: red;
+}
+p{
+ font-size:20px;
+ padding-left:20px;
+ padding-right:20px;
+}
+h3{
+ font-size:15px;
+ padding-left:20px;
+ color: red;
+}

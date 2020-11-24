@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>WIJO-Huawei</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h4><span style="font-family: Courier New,Courier,monospace;">&nbsp;&nbsp;
+          <span style="color: #ffff33;">WIJO.TN<br>
+          </span></span></h4>
+    </header>
+    <nav>
+      <h1 style="text-align: center;"><a href="WIJO.html" style="font-family: Trebuchet MS; color: white;"
+
+          title="acceuil">Acceuil</a> </h1>
+      <h2 style="text-align: center;"> <a href="HUAWEI.html" style="font-family: Trebuchet MS; color: white;"
+
+          title="PAGE">Huawei</a></h2>
+      <h3 style="text-align: center;"> <a href="smartphone.html" style="font-family: Trebuchet MS; color: white;"
+
+          title="PAGE2">Smart-Phone</a> </h3>
+    </nav>
+    <h3> </h3>
+    <div style="text-align: left;">
+      <section style="text-align: left;">
+        <div style="text-align: center;"><br>
+        </div>
+        <br>
+        <table style="width: 686px; height: 546px;" border="0">
+          <tbody>
+            <tr>
+              <td style="height: 35.8667px; width: 178.9px;">Création:<br>
+              </td>
+              <td style="width: 490.4px;">1987<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 27.8667px;">Fondateures:<br>
+              </td>
+              <td>Ren Zhengfi<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 28.8667px;">Forme juridique:<br>
+              </td>
+              <td>Entreprise priveé à capital fermé<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 25.8667px;">Siége social:<br>
+              </td>
+              <td>Longgang,Shenzhen chine<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 29.8667px;">Directon:<br>
+              </td>
+              <td>Ren Zhengfi, PDG Liang Hua,président Meng Wanzhou, Daf<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 26.8667px;">Directeurs:<br>
+              </td>
+              <td>Ren Zhengfei<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 29.8667px;">Actionnaires:<br>
+              </td>
+              <td>Actionnariat salarié </td>
+            </tr>
+            <tr>
+              <td style="height: 31.8667px;">Activité:<br>
+              </td>
+              <td>Télécommunication,informatique </td>
+            </tr>
+            <tr>
+              <td style="height: 26.8667px;">Produits:<br>
+              </td>
+              <td>Réseaux de téléphonie mobile et fixe,technologies
+                multimidias,smartphones,tablette,conseil et services<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 29.8667px;">Filiales:<br>
+              </td>
+              <td>hiSilicon,Huawei Technologies(UK),Huawei,huawei technologies
+                Deutchland,huawei Technologies(cananda),huawei
+                Technologies(France)et Huawei Technologie(Czech)<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 25.8667px;">Effecttif:<br>
+              </td>
+              <td>Monter à&nbsp; 194 000(2019)<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 32.8667px;">Site web:<br>
+              </td>
+              <td><a href="%3Cimg%20class=%22left%22%20scr=%22#%22%20alt=%22HUAWEI%20P30%22%20style=%22float:%20left;%20margin:%2010px%2010px%2010px%2020px;%20width:%20106px;%20height:%20104px;%22%20%20%20%20%20%20%20%20src=%22huaweip30.jpg%22%20title=%22HUAWEI%20P30%22%3E"
+
+                  target="_blank">http://www.huawei.com</a><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 36.8667px;">Chiffre d'affaires:<br>
+              </td>
+              <td>monter à 121.72 millards de dollars(2019)<br>
+                monter à +15% de 2016 à 2017<br>
+              </td>
+            </tr>
+            <tr>
+              <td>Résultat net:<br>
+              </td>
+              <td>37 052 000 000 de Renminbi (2016)<br>
+                monter à +33% en 2013 à 4,5 millards de dollars<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </div>
+    <aside> <img class="left" scr="#" alt="HUAWEI P30" style="float: left; margin: 10px 10px 10px 20px; width: 106px; height: 104px;"
+
+        src="huaweip30.jpg" title="HUAWEI P30"> <img class="left" scr="#" alt="HUAWEI P40"
+
+        style="float: left; margin: 10px 10px 0px 10px; width: 106px; height: 108px;"
+
+        src="huaweip40.jpg" title="HUAWEI P40"> <img class="left" scr="#" alt="HUAWEI P20"
+
+        style="float: left; margin: 20px -40px -40px 10px; width: 106px; height: 108px;"
+
+        src="huaweip20.jpg" title="HUAWEI P20"> <img class="left" scr="#" alt="HUAWEI socité"
+
+        style="float: left; margin: -70px -40px -40px 20px; width: 106px; height: 108px;"
+
+        src="huawei.jpg" title="HUAWEI socité"></aside>
+    <footer> <br>
+      <span style="font-family: Candara;"><span style="color: #66ffff;">admin :
+          _saif
+          _hamraoui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp; &nbsp; </span></span><span style="font-family: Calisto MT; color: #66ffff;"><span
+
+          style="font-family: Algerian;">3 info&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+
+        style="color: #66ffff; font-family: Arial Rounded MT;"> <span style="color: red;">E-Mail</span></span><span
+
+        style="font-family: Calisto MT; color: #66ffff;"><span style="color: red;">:</span>
+        &nbsp; <a href="hamraouisaif67@gmail.com" target="_parent" style="color: #66ffff;">hamraouisaif67@gmail.com</a></span><br>
+      <h7 style="text-align: right;"> <mail></mail> </h7> </footer>
+  </body>
+</html>
